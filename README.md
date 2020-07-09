@@ -8,7 +8,7 @@ $ cat /etc/issue
 $ uname -a
 Human maddison-hellstrom  #1 SMP PREEMPT RT 26 Feb ???? 14:17:56 +0000 x86_64 SHE/Her
 
-$ cat ~/.env
+$ cat /etc/profile
 DOMAIN=maddison.io
 GITHUB=b0o
 TWITTER=HellsMaddy
