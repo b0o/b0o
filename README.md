@@ -6,7 +6,7 @@ $ cat /etc/issue
 |_.__/\__/\___/
 
 $ uname -a
-Human maddison-hellstrom  #1 SMP PREEMPT RT 26 Feb ???? 14:17:56 +0000 x86_64 SHE/Her
+Human maddison-hellstrom  #1 SMP PREEMPT RT 26 Feb ???? 14:17:56 +0000 x86_64 SHE/They
 
 $ cat /etc/profile
 DOMAIN=maddison.io
