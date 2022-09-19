@@ -19,4 +19,4 @@ PGP=1C07780ABAE305EE05ED4D39CDB2888C2BA26FBB
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=b0o&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=b0o&show_icons=true&count_private=true&v=1)
