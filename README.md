@@ -24,11 +24,11 @@ PGP=1C07780ABAE305EE05ED4D39CDB2888C2BA26FBB
 <div float="left">
   <a href="https://github.com/b0o/SchemaStore.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=SchemaStore.nvim&show_owner=true&v=3" alt="b0o/SchemaStore.nvim"></a>
 &nbsp;
-  <a href="https://github.com/b0o/mapx.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=mapx.nvim&show_owner=true&v=3" alt="b0o/mapx.nvim"></a>
+  <a href="https://github.com/b0o/incline.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=incline.nvim&show_owner=true&v=3" alt="b0o/incline.nvim"></a>
 &nbsp;
 </div>
 <div float="left">
-  <a href="https://github.com/b0o/incline.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=incline.nvim&show_owner=true&v=3" alt="b0o/incline.nvim"></a>
+  <a href="https://github.com/b0o/mapx.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=mapx.nvim&show_owner=true&v=3" alt="b0o/mapx.nvim"></a>
 &nbsp;
   <a href="https://github.com/b0o/nvim-conf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b0o&repo=nvim-conf&show_owner=true&v=3" alt="b0o/nvim-conf"></a>
 </div>
