@@ -2,11 +2,11 @@ name: keepwarm
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/5 * * * *"
 jobs:
   keepwarm:
     runs-on: ubuntu-latest
     steps:
       - name: Poll the Vercel serverless function to keep it warm
         #run: curl --verbose https://github-readme-stats-eight-topaz-65.vercel.app/api/pin/?username=b0o&repo=SchemaStore.nvim&show_owner=true&v=3
-        run: curl --verbose https://github.com/b0o/b0o/blob/main/README.md
+        run: "curl --verbose -H 'Accept: text/html' https://github.com/b0o/b0o/blob/main/README.md"
