@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Poll the Vercel serverless function to keep it warm
-        run: curl --verbose -L https://github-readme-stats-eight-topaz-65.vercel.app/
+        run: curl --verbose https://github-readme-stats-eight-topaz-65.vercel.app/
