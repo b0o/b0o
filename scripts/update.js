@@ -32,14 +32,14 @@ const data = [
       {
         kind: "repo",
         user: "b0o",
-        repo: "incline.nvim",
-        description: "Floating statuslines for Neovim",
+        repo: "SchemaStore.nvim",
+        description: "JSON Schemas for Neovim",
       },
       {
         kind: "repo",
         user: "b0o",
-        repo: "SchemaStore.nvim",
-        description: "JSON Schemas for Neovim",
+        repo: "incline.nvim",
+        description: "Floating statuslines for Neovim",
       },
       {
         kind: "repo",
@@ -244,9 +244,10 @@ for (const [key, url] of imgCache.entries()) {
   const imgPath = path.join(baseDir, conf.imgDir, key)
   const imgDir = path.dirname(imgPath)
   await fs.mkdir(imgDir, { recursive: true })
-  console.log(`Fetching ${url} to ${imgPath}`)
+  console.log(`Fetching ${url}`)
   const img = await fetch(url)
   const buffer = await img.arrayBuffer()
+  console.log(`Writing ${imgPath}`)
   await fs.writeFile(imgPath, Buffer.from(buffer))
 }
 

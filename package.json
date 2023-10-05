@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-readme": "node scripts/update.js"
   },
   "author": "",
   "license": "ISC",
