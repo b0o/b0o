@@ -1,0 +1,14 @@
+{
+  "name": "b0o",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.2.2"
+  }
+}
