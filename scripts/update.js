@@ -11,6 +11,7 @@ const conf = {
     base: "b0o/b0o",
     branch: "main",
   },
+  t: Date.now(),
   imgDir: "assets",
   api: "https://github-readme-stats-eight-topaz-65.vercel.app/api",
   styles: {
@@ -151,7 +152,10 @@ const imgCache = new Map()
 
 function renderCachedImage({ key, url, alt, fragment }) {
   imgCache.set(key, url)
-  const cacheUrl = `https://raw.githubusercontent.com/${conf.repo.base}/${conf.repo.branch}/${conf.imgDir}/${key}`
+  const cacheUrl = new URL(
+    `https://raw.githubusercontent.com/${conf.repo.base}/${conf.repo.branch}/${conf.imgDir}/${key}`,
+  )
+  cacheUrl.searchParams.set("t", conf.t)
   return `<img src="${cacheUrl}${fragment ? "#" + fragment : ""}" alt="${alt}">`
 }
 
