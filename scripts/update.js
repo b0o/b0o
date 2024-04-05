@@ -44,6 +44,18 @@ const data = [
       {
         kind: "repo",
         user: "b0o",
+        repo: "blender.nvim",
+        description: "Develop Blender Add-ons with Neovim",
+      },
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "lavi.nvim",
+        description: "A soft and sweet colorscheme for Neovim",
+      },
+      {
+        kind: "repo",
+        user: "b0o",
         repo: "mapx.nvim",
         description: "A better way to create key mappings in Neovim",
       },
