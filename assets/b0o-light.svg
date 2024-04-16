@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Maddison Hellstrom's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 2589, Total Commits  : 2589, Total PRs: 88, Total Issues: 182, Contributed to (last year): 38</desc>
+        <desc id="descId">Total Stars Earned: 2588, Total Commits  : 2588, Total PRs: 88, Total Issues: 182, Contributed to (last year): 38</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.084636084136676;
+        stroke-dashoffset: 32.08523777640087;
       }
     }
   
