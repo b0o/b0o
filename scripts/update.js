@@ -190,7 +190,7 @@ function renderUserCardStyle({ user, description, style }) {
   const search = new URLSearchParams({
     username: user,
     show_icons: true,
-    include_all_commits: true,
+    include_all_commits: false,
     ...conf.styles[style],
   })
   return [
