@@ -15,8 +15,8 @@
 <a href="https://github.com/b0o/lavi.nvim#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-lavi.nvim-light.svg#gh-light-mode-only" alt="lavi.nvim: A soft and sweet colorscheme for Neovim"></a>
 &nbsp;
 </div><div float="left">
-<a href="https://github.com/b0o/mapx.nvim#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-mapx.nvim-dark.svg#gh-dark-mode-only" alt="mapx.nvim: A better way to create key mappings in Neovim"></a>
-<a href="https://github.com/b0o/mapx.nvim#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-mapx.nvim-light.svg#gh-light-mode-only" alt="mapx.nvim: A better way to create key mappings in Neovim"></a>
+<a href="https://github.com/b0o/nvim-tree-preview.lua#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-tree-preview.lua-dark.svg#gh-dark-mode-only" alt="nvim-tree-preview.lua: Floating preview windows for nvim-tree"></a>
+<a href="https://github.com/b0o/nvim-tree-preview.lua#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-tree-preview.lua-light.svg#gh-light-mode-only" alt="nvim-tree-preview.lua: Floating preview windows for nvim-tree"></a>
 &nbsp;
 <a href="https://github.com/b0o/nvim-conf#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-conf-dark.svg#gh-dark-mode-only" alt="nvim-conf: Maddison's Neovim configuration!"></a>
 <a href="https://github.com/b0o/nvim-conf#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-conf-light.svg#gh-light-mode-only" alt="nvim-conf: Maddison's Neovim configuration!"></a>
