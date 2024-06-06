@@ -56,8 +56,8 @@ const data = [
       {
         kind: "repo",
         user: "b0o",
-        repo: "mapx.nvim",
-        description: "A better way to create key mappings in Neovim",
+        repo: "nvim-tree-preview.lua",
+        description: "Floating preview windows for nvim-tree",
       },
       {
         kind: "repo",
