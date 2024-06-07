@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Maddison Hellstrom's GitHub Stats, Rank: A</title>
+        <title id="titleId">Maddison Hellstrom's GitHub Stats, Rank: A+</title>
         <desc id="descId">Total Stars Earned: 2788, Total Commits in 2024 : 2788, Total PRs: 92, Total Issues: 195, Contributed to (last year): 42</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.451276825946508;
+        stroke-dashoffset: 31.40224309126861;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >809</text>
+      >813</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
