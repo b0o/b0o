@@ -14,7 +14,9 @@ const conf = {
   imgDir: "assets",
   api: "https://github-readme-stats-eight-topaz-65.vercel.app/api",
   styles: {
-    light: {},
+    light: {
+      bg_color: "ffffff",
+    },
     dark: {
       title_color: "58a6ff",
       text_color: "adbac7",
