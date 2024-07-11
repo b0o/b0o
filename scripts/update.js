@@ -16,6 +16,7 @@ const conf = {
   styles: {
     light: {
       bg_color: "ffffff",
+      border_color: "d0d7de",
     },
     dark: {
       title_color: "58a6ff",
