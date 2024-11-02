@@ -21,6 +21,13 @@
 <a href="https://github.com/b0o/nvim-conf#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-conf-dark.svg#gh-dark-mode-only" alt="nvim-conf: Maddison's Neovim configuration!"></a>
 <a href="https://github.com/b0o/nvim-conf#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-conf-light.svg#gh-light-mode-only" alt="nvim-conf: Maddison's Neovim configuration!"></a>
 &nbsp;
+</div><div float="left">
+<a href="https://github.com/b0o/tree-sitter-cython#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-tree-sitter-cython-dark.svg#gh-dark-mode-only" alt="tree-sitter-cython: Cython grammar for tree-sitter"></a>
+<a href="https://github.com/b0o/tree-sitter-cython#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-tree-sitter-cython-light.svg#gh-light-mode-only" alt="tree-sitter-cython: Cython grammar for tree-sitter"></a>
+&nbsp;
+<a href="https://github.com/b0o/Mulberry#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-Mulberry-dark.svg#gh-dark-mode-only" alt="Mulberry: Single-file Lua BDD library for testing Neovim plugins"></a>
+<a href="https://github.com/b0o/Mulberry#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-Mulberry-light.svg#gh-light-mode-only" alt="Mulberry: Single-file Lua BDD library for testing Neovim plugins"></a>
+&nbsp;
 </div>
 
 ### Browser Projects
