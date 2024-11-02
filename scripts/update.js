@@ -68,6 +68,18 @@ const data = [
         repo: "nvim-conf",
         description: "Maddison's Neovim configuration!",
       },
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "tree-sitter-cython",
+        description: "Cython grammar for tree-sitter",
+      },
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "Mulberry",
+        description: "Single-file Lua BDD library for testing Neovim plugins",
+      },
     ],
   },
   {
