@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">🐍 Cython grammar for tree-sitter (WIP)</tspan>
+      <tspan dy="1.2em" x="25">🐍 Cython grammar for tree-sitter</tspan>
     </text>
 
     <g transform="translate(30, 45)">
