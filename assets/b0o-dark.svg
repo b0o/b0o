@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Maddison Hellstrom's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 3408, Total Commits in 2025 : 3408, Total PRs: 121, Total Issues: 221, Contributed to (last year): 45</desc>
+        <desc id="descId">Total Stars Earned: 3408, Total Commits in 2025 : 3408, Total PRs: 121, Total Issues: 221, Contributed to (last year): 44</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >45</text>
+      >44</text>
     </g>
   </g>
     </svg>
