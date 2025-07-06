@@ -103,6 +103,24 @@ const data = [
   },
   {
     kind: "section",
+    title: "Rust Projects",
+    cards: [
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "zjstatus-hints",
+        description: "A zellij plugin adding context-aware key binding hints for zjstatus.",
+      },
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "zellij-tools",
+        description: "A Zellij plugin that adds a few handy utilities.",
+      },
+    ],
+  },
+  {
+    kind: "section",
     title: "Linux Projects",
     cards: [
       {
