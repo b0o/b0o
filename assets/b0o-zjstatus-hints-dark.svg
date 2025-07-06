@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">💡 zellij plugin adding context-aware key binding hints for</tspan><tspan dy="1.2em" x="25">zjstatus</tspan>
+      <tspan dy="1.2em" x="25">💡 A Zellij plugin adding key binding hints for</tspan><tspan dy="1.2em" x="25">zjstatus</tspan>
     </text>
 
     <g transform="translate(30, 65)">
