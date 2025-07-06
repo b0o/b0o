@@ -41,6 +41,17 @@
 &nbsp;
 </div>
 
+### Rust Projects
+
+<div float="left">
+<a href="https://github.com/b0o/zjstatus-hints#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-zjstatus-hints-dark.svg#gh-dark-mode-only" alt="zjstatus-hints: A zellij plugin adding context-aware key binding hints for zjstatus."></a>
+<a href="https://github.com/b0o/zjstatus-hints#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-zjstatus-hints-light.svg#gh-light-mode-only" alt="zjstatus-hints: A zellij plugin adding context-aware key binding hints for zjstatus."></a>
+&nbsp;
+<a href="https://github.com/b0o/zellij-tools#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-zellij-tools-dark.svg#gh-dark-mode-only" alt="zellij-tools: A Zellij plugin that adds a few handy utilities."></a>
+<a href="https://github.com/b0o/zellij-tools#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-zellij-tools-light.svg#gh-light-mode-only" alt="zellij-tools: A Zellij plugin that adds a few handy utilities."></a>
+&nbsp;
+</div>
+
 ### Linux Projects
 
 <div float="left">
