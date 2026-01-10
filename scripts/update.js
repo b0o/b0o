@@ -84,25 +84,6 @@ const data = [
   },
   {
     kind: "section",
-    title: "Browser Projects",
-    cards: [
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "surfingkeys-conf",
-        description: "A SurfingKeys config which adds 180+ key mappings and 50+ search engines",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "aws-favicons-webextension",
-        description:
-          "Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that.",
-      },
-    ],
-  },
-  {
-    kind: "section",
     title: "Rust Projects",
     cards: [
       {
@@ -123,6 +104,12 @@ const data = [
     kind: "section",
     title: "Linux Projects",
     cards: [
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "dotfiles",
+        description: "Maddison's dotfiles",
+      },
       {
         kind: "repo",
         user: "b0o",
@@ -153,11 +140,24 @@ const data = [
         repo: "arch-lwc",
         description: "Create & run lightweight Arch Linux containers",
       },
+    ],
+  },
+  {
+    kind: "section",
+    title: "Browser Projects",
+    cards: [
       {
         kind: "repo",
         user: "b0o",
-        repo: "dotfiles",
-        description: "Maddison's dotfiles",
+        repo: "surfingkeys-conf",
+        description: "A SurfingKeys config which adds 180+ key mappings and 50+ search engines",
+      },
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "aws-favicons-webextension",
+        description:
+          "Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that.",
       },
     ],
   },
