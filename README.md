@@ -30,17 +30,6 @@
 &nbsp;
 </div>
 
-### Browser Projects
-
-<div float="left">
-<a href="https://github.com/b0o/surfingkeys-conf#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-surfingkeys-conf-dark.svg#gh-dark-mode-only" alt="surfingkeys-conf: A SurfingKeys config which adds 180+ key mappings and 50+ search engines"></a>
-<a href="https://github.com/b0o/surfingkeys-conf#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-surfingkeys-conf-light.svg#gh-light-mode-only" alt="surfingkeys-conf: A SurfingKeys config which adds 180+ key mappings and 50+ search engines"></a>
-&nbsp;
-<a href="https://github.com/b0o/aws-favicons-webextension#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-aws-favicons-webextension-dark.svg#gh-dark-mode-only" alt="aws-favicons-webextension: Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that."></a>
-<a href="https://github.com/b0o/aws-favicons-webextension#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-aws-favicons-webextension-light.svg#gh-light-mode-only" alt="aws-favicons-webextension: Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that."></a>
-&nbsp;
-</div>
-
 ### Rust Projects
 
 <div float="left">
@@ -55,25 +44,36 @@
 ### Linux Projects
 
 <div float="left">
+<a href="https://github.com/b0o/dotfiles#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dotfiles-dark.svg#gh-dark-mode-only" alt="dotfiles: Maddison's dotfiles"></a>
+<a href="https://github.com/b0o/dotfiles#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dotfiles-light.svg#gh-light-mode-only" alt="dotfiles: Maddison's dotfiles"></a>
+&nbsp;
 <a href="https://github.com/b0o/swaynagmode#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-swaynagmode-dark.svg#gh-dark-mode-only" alt="swaynagmode: swaynag wrapper for the love of keybindings"></a>
 <a href="https://github.com/b0o/swaynagmode#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-swaynagmode-light.svg#gh-light-mode-only" alt="swaynagmode: swaynag wrapper for the love of keybindings"></a>
 &nbsp;
+</div><div float="left">
 <a href="https://github.com/b0o/snag#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-snag-dark.svg#gh-dark-mode-only" alt="snag: snag screenshots and screencasts in Sway"></a>
 <a href="https://github.com/b0o/snag#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-snag-light.svg#gh-light-mode-only" alt="snag: snag screenshots and screencasts in Sway"></a>
 &nbsp;
-</div><div float="left">
 <a href="https://github.com/b0o/tmux-autoreload#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-tmux-autoreload-dark.svg#gh-dark-mode-only" alt="tmux-autoreload: Automatically reload your tmux config file on change"></a>
 <a href="https://github.com/b0o/tmux-autoreload#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-tmux-autoreload-light.svg#gh-light-mode-only" alt="tmux-autoreload: Automatically reload your tmux config file on change"></a>
 &nbsp;
+</div><div float="left">
 <a href="https://github.com/b0o/updoot#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-updoot-dark.svg#gh-dark-mode-only" alt="updoot: Unify the update process for your entire system"></a>
 <a href="https://github.com/b0o/updoot#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-updoot-light.svg#gh-light-mode-only" alt="updoot: Unify the update process for your entire system"></a>
 &nbsp;
-</div><div float="left">
 <a href="https://github.com/b0o/arch-lwc#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-arch-lwc-dark.svg#gh-dark-mode-only" alt="arch-lwc: Create & run lightweight Arch Linux containers"></a>
 <a href="https://github.com/b0o/arch-lwc#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-arch-lwc-light.svg#gh-light-mode-only" alt="arch-lwc: Create & run lightweight Arch Linux containers"></a>
 &nbsp;
-<a href="https://github.com/b0o/dotfiles#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dotfiles-dark.svg#gh-dark-mode-only" alt="dotfiles: Maddison's dotfiles"></a>
-<a href="https://github.com/b0o/dotfiles#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dotfiles-light.svg#gh-light-mode-only" alt="dotfiles: Maddison's dotfiles"></a>
+</div>
+
+### Browser Projects
+
+<div float="left">
+<a href="https://github.com/b0o/surfingkeys-conf#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-surfingkeys-conf-dark.svg#gh-dark-mode-only" alt="surfingkeys-conf: A SurfingKeys config which adds 180+ key mappings and 50+ search engines"></a>
+<a href="https://github.com/b0o/surfingkeys-conf#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-surfingkeys-conf-light.svg#gh-light-mode-only" alt="surfingkeys-conf: A SurfingKeys config which adds 180+ key mappings and 50+ search engines"></a>
+&nbsp;
+<a href="https://github.com/b0o/aws-favicons-webextension#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-aws-favicons-webextension-dark.svg#gh-dark-mode-only" alt="aws-favicons-webextension: Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that."></a>
+<a href="https://github.com/b0o/aws-favicons-webextension#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-aws-favicons-webextension-light.svg#gh-light-mode-only" alt="aws-favicons-webextension: Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that."></a>
 &nbsp;
 </div>
 
