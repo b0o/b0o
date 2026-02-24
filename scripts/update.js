@@ -53,8 +53,8 @@ const data = [
       {
         kind: "repo",
         user: "b0o",
-        repo: "lavi.nvim",
-        description: "A soft and sweet colorscheme for Neovim",
+        repo: "lavi",
+        description: "A soft and sweet colorscheme for Neovim & more",
       },
       {
         kind: "repo",
