@@ -11,8 +11,8 @@
 <a href="https://github.com/b0o/blender.nvim#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-blender.nvim-dark.svg#gh-dark-mode-only" alt="blender.nvim: Develop Blender Add-ons with Neovim"></a>
 <a href="https://github.com/b0o/blender.nvim#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-blender.nvim-light.svg#gh-light-mode-only" alt="blender.nvim: Develop Blender Add-ons with Neovim"></a>
 &nbsp;
-<a href="https://github.com/b0o/lavi.nvim#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-lavi.nvim-dark.svg#gh-dark-mode-only" alt="lavi.nvim: A soft and sweet colorscheme for Neovim"></a>
-<a href="https://github.com/b0o/lavi.nvim#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-lavi.nvim-light.svg#gh-light-mode-only" alt="lavi.nvim: A soft and sweet colorscheme for Neovim"></a>
+<a href="https://github.com/b0o/lavi#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-lavi-dark.svg#gh-dark-mode-only" alt="lavi: A soft and sweet colorscheme for Neovim & more"></a>
+<a href="https://github.com/b0o/lavi#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-lavi-light.svg#gh-light-mode-only" alt="lavi: A soft and sweet colorscheme for Neovim & more"></a>
 &nbsp;
 </div><div float="left">
 <a href="https://github.com/b0o/nvim-tree-preview.lua#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-nvim-tree-preview.lua-dark.svg#gh-dark-mode-only" alt="nvim-tree-preview.lua: Floating preview windows for nvim-tree"></a>
