@@ -91,7 +91,7 @@
 ---
 
 <div float="left">
-<a href="https://github.com/b0o#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dark.svg#gh-dark-mode-only" alt="b0o: Maddison Hellstrom's GitHub Stats"></a>
-<a href="https://github.com/b0o#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-light.svg#gh-light-mode-only" alt="b0o: Maddison Hellstrom's GitHub Stats"></a>
+<a href="https://github.com/b0o#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-dark.svg#gh-dark-mode-only" alt="b0o: b0o's GitHub Stats"></a>
+<a href="https://github.com/b0o#gh-light-mode-only"><img src="https://raw.githubusercontent.com/b0o/b0o/main/assets/b0o-light.svg#gh-light-mode-only" alt="b0o: b0o's GitHub Stats"></a>
 &nbsp;
 </div>
