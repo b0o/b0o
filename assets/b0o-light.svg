@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Maddison Hellstrom's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4046, Total Commits in 2026 : 4046, Total PRs: 150, Total Issues: 249, Contributed to (last year): 33</desc>
+        <title id="titleId">Maddison Cohodas' GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 4000, Total Commits in 2026 : 4000, Total PRs: 150, Total Issues: 247, Contributed to (last year): 33</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.463400719672794;
+        stroke-dashoffset: 13.34759229757953;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Maddison Hellstrom's GitHub Stats</text>
+      >Maddison Cohodas' GitHub Stats</text>
     </g>
       </g>
     
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >249</text>
+      >247</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
