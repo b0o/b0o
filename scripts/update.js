@@ -186,7 +186,7 @@ const data = [
       {
         kind: "user",
         user: "b0o",
-        description: "Maddison Hellstrom's GitHub Stats",
+        description: "b0o's GitHub Stats",
       },
     ],
   },
