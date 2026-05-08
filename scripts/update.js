@@ -30,7 +30,7 @@ const conf = {
 const data = [
   {
     kind: "section",
-    title: "Neovim Projects",
+    title: "Projects",
     cards: [
       {
         kind: "repo",
@@ -43,6 +43,12 @@ const data = [
         user: "b0o",
         repo: "incline.nvim",
         description: "Floating statuslines for Neovim",
+      },      
+      {
+        kind: "repo",
+        user: "b0o",
+        repo: "dotfiles",
+        description: "Maddison's dotfiles",
       },
       {
         kind: "repo",
@@ -62,12 +68,12 @@ const data = [
         repo: "nvim-tree-preview.lua",
         description: "Floating preview windows for nvim-tree",
       },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "nvim-conf",
-        description: "Maddison's Neovim configuration!",
-      },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "nvim-conf",
+      //   description: "Maddison's Neovim configuration!",
+      // },
       {
         kind: "repo",
         user: "b0o",
@@ -80,12 +86,12 @@ const data = [
         repo: "Mulberry",
         description: "Single-file Lua BDD library for testing Neovim plugins",
       },
-    ],
-  },
-  {
-    kind: "section",
-    title: "Rust Projects",
-    cards: [
+  //   ],
+  // },
+  // {
+  //   kind: "section",
+  //   title: "Rust Projects",
+  //   cards: [
       {
         kind: "repo",
         user: "b0o",
@@ -98,73 +104,73 @@ const data = [
         repo: "zellij-tools",
         description: "A Zellij plugin that adds a few handy utilities.",
       },
-    ],
-  },
-  {
-    kind: "section",
-    title: "Linux Projects",
-    cards: [
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "dotfiles",
-        description: "Maddison's dotfiles",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "swaynagmode",
-        description: "swaynag wrapper for the love of keybindings",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "snag",
-        description: "snag screenshots and screencasts in Sway",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "tmux-autoreload",
-        description: "Automatically reload your tmux config file on change",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "updoot",
-        description: "Unify the update process for your entire system",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "arch-lwc",
-        description: "Create & run lightweight Arch Linux containers",
-      },
-    ],
-  },
-  {
-    kind: "section",
-    title: "Browser Projects",
-    cards: [
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "surfingkeys-conf",
-        description: "A SurfingKeys config which adds 180+ key mappings and 50+ search engines",
-      },
-      {
-        kind: "repo",
-        user: "b0o",
-        repo: "aws-favicons-webextension",
-        description:
-          "Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that.",
-      },
-    ],
-  },
-  {
-    kind: "section",
-    title: "Other Projects",
-    cards: [
+  //   ],
+  // },
+  // {
+  //   kind: "section",
+  //   title: "Linux Projects",
+  //   cards: [
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "dotfiles",
+      //   description: "Maddison's dotfiles",
+      // },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "swaynagmode",
+      //   description: "swaynag wrapper for the love of keybindings",
+      // },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "snag",
+      //   description: "snag screenshots and screencasts in Sway",
+      // },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "tmux-autoreload",
+      //   description: "Automatically reload your tmux config file on change",
+      // },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "updoot",
+      //   description: "Unify the update process for your entire system",
+      // },
+      // {
+      //   kind: "repo",
+      //   user: "b0o",
+      //   repo: "arch-lwc",
+      //   description: "Create & run lightweight Arch Linux containers",
+      // },
+  //   ],
+  // },
+  // {
+  //   kind: "section",
+  //   title: "Browser Projects",
+  //   cards: [
+  //     {
+  //       kind: "repo",
+  //       user: "b0o",
+  //       repo: "surfingkeys-conf",
+  //       description: "A SurfingKeys config which adds 180+ key mappings and 50+ search engines",
+  //     },
+  //     {
+  //       kind: "repo",
+  //       user: "b0o",
+  //       repo: "aws-favicons-webextension",
+  //       description:
+  //         "Tired of all your AWS browser tabs having the same orange cube favicon? This WebExtension fixes that.",
+  //     },
+  //   ],
+  // },
+  // {
+  //   kind: "section",
+  //   title: "Other Projects",
+  //   cards: [
       {
         kind: "repo",
         user: "b0o",
