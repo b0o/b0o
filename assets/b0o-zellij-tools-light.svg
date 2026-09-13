@@ -21,39 +21,61 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .description {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #434d58;
+      
+    }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .icon { fill: #586069 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2 }
+    .badge rect { opacity: 0.2; stroke: #434d58 }
+    .badge text { fill: #434d58 }
+
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #586069;
+      display: block;
+    }
   
+          
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
       }
-      to {
-        transform: translate(-5px, 5px) scale(1);
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+    
           * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -99,29 +121,34 @@
           
     
 
-    <text class="description" x="25" y="-5">
+    <text class="description" x="25" y="-5"> 
       <tspan dy="1.2em" x="25">🔧 A Zellij plugin that adds a few handy utilities.</tspan>
     </text>
 
     <g transform="translate(30, 45)">
       <g transform="translate(0, 0)">
-  <g data-testid="primary-lang">
-    <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
-    <text data-testid="lang-name" class="gray" x="15">Rust</text>
-  </g>
-  </g><g transform="translate(49.6375, 0)"><g transform="translate(0, 0)">
-    <svg
-      class="icon"
-      y="-12"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
-    >
-      <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-    </svg>
-  </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">6</text></g></g>
+    <g data-testid="primary-lang">
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
+      <text data-testid="lang-name" class="gray" x="15">Rust</text>
     </g>
+    </g><g transform="translate(48.13999967575073, 0)"><g transform="translate(0, 0)">
+      <svg
+        class="icon"
+        y="-12"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+      >
+        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+      </svg>
+    </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">6</text></g></g>
+    </g>
+    
+  <svg x="0" y="0"><g transform="translate(-3, 68)">
+      
+    </g></svg>
+    
   
         </g>
       </svg>
