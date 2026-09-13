@@ -12,7 +12,7 @@ const conf = {
     branch: "main",
   },
   imgDir: "assets",
-  api: "https://github-readme-stats-eight-topaz-65.vercel.app/api",
+  api: "https://github-stats-extended.vercel.app/api",
   styles: {
     light: {
       bg_color: "ffffff",
