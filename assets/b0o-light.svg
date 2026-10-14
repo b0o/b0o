@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Maddison Cohodas&#39; GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4129, Total Commits  (last year) : 1204, Total PRs: 151, Total Issues: 261, Contributed to (last year): 31</desc>
+        <desc id="descId">Total Stars Earned: 4132, Total Commits  (last year) : 1155, Total PRs: 151, Total Issues: 261, Contributed to (last year): 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.819291714203114;
+        stroke-dashoffset: 16.03443782137084;
       }
     }
   
